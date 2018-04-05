@@ -1,0 +1,26 @@
+
+body
+{
+    font-family: "Times New Roman", Georgia, 'Times New Roman', Times, serif
+}
+
+
+h2
+
+
+
+{
+   margin: auto;
+    color :red;
+
+
+    
+}
+div 
+{
+    color :white;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
