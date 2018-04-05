@@ -1,0 +1,1 @@
+ I made this website for a friend of mine to host a webpage. Then I setup the website so I can add any number of artists later. Each artist will get a subdomin from the main website. The website is live at nepalirockers.com 
